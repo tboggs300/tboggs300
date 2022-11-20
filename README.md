@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-I am a software engineer focused on learning DevOps, IaC, and cloud technologies.
+I am a software engineer focused on learning DevOps, IaC, and cloud technologies. 
 
 ## Currently Learning
 - Terraform
 - AWS
 - NodeJS
 - React
+- BabylonJS
 
 ## Certifications
 - AWS Solutions Architect - Associate
