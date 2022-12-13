@@ -8,6 +8,7 @@ I am a software engineer focused on learning DevOps, IaC, and cloud technologies
 - NodeJS
 - React
 - BabylonJS
+- Golang
 
 ## Certifications
 - AWS Solutions Architect - Associate
