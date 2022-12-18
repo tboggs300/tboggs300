@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software engineer focused on learning DevOps, IaC, and cloud technologies. 
+I am a software engineer focused on learning Backend, DevOps, IaC, and cloud technologies. 
 
 ## Currently Learning
 - Terraform
