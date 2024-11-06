@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a software engineer focused on learning Backend, DevOps, IaC, and cloud technologies. 
+I am a software engineer focused on learning Backend, DevOps, IaC, and cloud technologies. Specializing in Terraform, NodeJS, AWS, and Rust.
 
 ## Stats
 ![Tommy's GitHub stats](https://github-readme-stats.vercel.app/api?username=tboggs300&show_icons=true&theme=dark)
